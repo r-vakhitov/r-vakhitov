@@ -16,7 +16,7 @@
 
 | Project        | Description         |   Stack  |
 | ----------- |------------| -------|
-| [Registration Form](https://r-vakhitov.github.io/vue_form_task/)      | Test Task from job offer. Needed validation via Vuelidation. UX/UI - at my discretion. It's my first Vue project  | Vue.js, Vuelidation, Sass |
+| [Registration Form](https://r-vakhitov.github.io/vue_form_task/)      | Test Task from job offer. Needed validation via Vuelidate. UX/UI - at my discretion. It's my first Vue project  | Vue.js, Vuelidate, Sass |
 | [Simon Game](https://r-vakhitov.github.io/simon_game/)       | Test Task from job offer. A popular game where you need to repeat at the computer. Try  it! There are some difficulty levels.      |   Vue.js, Sass |
 | [Cat Energy](https://r-vakhitov.github.io/cat-energy) | Online-store that offers sport nutrition for cats. Training project.      |    HTML, Sass, Vanilla  JS, Gulp |
 | [Technomart](https://r-vakhitov.github.io/1389537-technomart-28/) | Online-store that offers building tools. Training project.      |    HTML, CSS, Vanilla JS |
