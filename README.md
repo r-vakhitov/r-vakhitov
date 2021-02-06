@@ -18,7 +18,7 @@
 
 | Project        | Description         |   Stack  |
 | ----------- |------------| -------|
-| [BeerShop](https://r-vakhitov.github.io/beershop_react/)      | Pet project for gaining experience of React, Redux. The tools I used here: hooks, class/func components, debounce search, lazy scroll etc. UX/UI - at my discretion.  | React, Redux, React beautiful dnd |
+| [BeerShop](https://r-vakhitov.github.io/beershop_react/)      | Pet project for gaining experience of React, Redux. See page "Catalog". The tools I used here: Router, Hooks, Class/Func components, Debounce search, Lazy scroll etc. UX/UI - at my discretion.  | React, Redux, React beautiful dnd |
 | [Registration Form](https://r-vakhitov.github.io/vue_form_task/)      | Test Task from job offer. Needed validation via Vuelidate. UX/UI - at my discretion. It's my first Vue project  | Vue.js, Vuelidate, Sass |
 | [Simon Game](https://r-vakhitov.github.io/simon_game/)       | Test Task from job offer. A popular game where you need to repeat at the computer. Try  this! There are some difficulty levels.      |   Vue.js, Sass |
 | [Cat Energy](https://r-vakhitov.github.io/cat-energy) | Online-store that offers sport nutrition for cats. Training project.      |    HTML, Sass, Vanilla  JS, Gulp |
