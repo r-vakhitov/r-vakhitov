@@ -10,6 +10,7 @@
 ![Gulp](https://img.shields.io/badge/Gulp-0D1D34?style=for-the-badge&logo=gulp)
 ![Vue](https://img.shields.io/badge/VUE-0D1D34?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/React-0D1D34?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/React-0D1D34?style=for-the-badge&logo=redux)
 ![Git](https://img.shields.io/badge/Git-0D1D34?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/Github-0D1D34?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-0D1D34?style=for-the-badge&logo=visual-studio-code)
