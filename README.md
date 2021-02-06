@@ -8,6 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1D34?style=for-the-badge&logo=JavaScript)
 ![Sass](https://img.shields.io/badge/Sass-0D1D34?style=for-the-badge&logo=Sass)
 ![Gulp](https://img.shields.io/badge/Gulp-0D1D34?style=for-the-badge&logo=gulp)
+![Webpack](https://img.shields.io/badge/Webpack-0D1D34?style=for-the-badge&logo=webpack)
 ![Vue](https://img.shields.io/badge/VUE-0D1D34?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/React-0D1D34?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-0D1D34?style=for-the-badge&logo=redux)
