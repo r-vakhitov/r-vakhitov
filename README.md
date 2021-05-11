@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am beginner frontend developer with little datascience experience!
+### I am frontend developer!
 
 ### What I learned/am learning:
 ![HTML](https://img.shields.io/badge/HTML-0D1D34?style=for-the-badge&logo=HTML5)
