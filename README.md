@@ -19,6 +19,7 @@
 
 | Project        | Description         |   Stack  |
 | ----------- |------------| -------|
+| [ModuleFederation](https://d2yaov7m19ljgh.cloudfront.net/)      | Training project for gaining experience of Webpack Module Federation. This app is build from three react apps and one Vue app. The difficults that I have overcome: routing, styles, statement, deploy  | React, Vue, Webpack 5, Github Workflows, Amazon S3 |
 | [BeerShop React](https://r-vakhitov.github.io/beershop_react/)      | Pet project for gaining experience of React, Redux and TypeScript. See page "Catalog". The tools I used here: TypeScript, Router, Hooks, Class/Func components, Debounce search, Lazy scroll etc. UX/UI - at my discretion.  | React, Redux, React beautiful dnd |
 | [BeerShop JS](https://r-vakhitov.github.io/beershop/)      | Pet project: catalog page with async requests, pagination, sorting, feedback form with validation and fav block.  | Vanilla JS, Webpack |
 | [Registration Form](https://r-vakhitov.github.io/vue_form_task/)      | Test Task from job offer. Needed validation via Vuelidate. UX/UI - at my discretion. It's my first Vue project  | Vue.js, Vuelidate, Sass |
