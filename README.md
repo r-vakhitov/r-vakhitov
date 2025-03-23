@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I am frontend developer!
+### I am a senior frontend dev!
 
-### What I learned/am learning:
+### Some of my tools I learned a long time ago :
 ![HTML](https://img.shields.io/badge/HTML-0D1D34?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-0D1D34?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1D34?style=for-the-badge&logo=JavaScript)
